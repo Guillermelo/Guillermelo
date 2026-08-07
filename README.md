@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Guillermelo</h1>
 
 <p align="center">
-  Developer, builder, and curious problem-solver. Cloud Engineer.
+  Cloud Engineer — Backend & DevOps. I build reliable, observable, and scalable systems using Go, Python, and cloud-native tooling.
 </p>
 
 <p align="center">
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
   <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Infra-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=fff" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
 </p>
@@ -38,11 +37,10 @@
 - Shipping projects that are easy to understand and use.
 - Exploring better ways to design, build, and document software.
 
-### GitHub stats
+### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Guillermelo&show_icons=true&theme=tokyonight&hide_border=true" alt="Guillermelo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillermelo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  Check my projects and repos on <a href="https://github.com/Guillermelo">github.com/Guillermelo</a>.
 </p>
 
 ### Connect
@@ -52,10 +50,13 @@
     <img src="https://img.shields.io/badge/GitHub-Guillermelo-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://guillermelo.github.io/guille-code-forge/" style="margin-left:6px;">
-    <img src="https://img.shields.io/badge/Website-guille-code-forge-0e76a8?style=for-the-badge&logo=pages" alt="GitHub Pages" />
+    <img src="https://img.shields.io/badge/Website-guille--code--forge-0e76a8?style=for-the-badge" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/guille-benitez/" style="margin-left:6px;">
     <img src="https://img.shields.io/badge/LinkedIn-in%2Fguille-benitez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+  </a>
+  <a href="https://guillermelo.github.io/blog/" style="margin-left:6px;">
+    <img src="https://img.shields.io/badge/Blog-Coming%20Soon-6f42c1?style=for-the-badge" alt="Blog (placeholder)" />
   </a>
 </p>
 
