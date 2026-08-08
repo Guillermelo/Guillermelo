@@ -1,6 +1,6 @@
 # Guillermo Benitez
 
-**Cloud Engineer** · Infrastructure · Backend · Automation
+**Cloud Engineer** | Infrastructure | Backend | Automation
 
 ![Profile views](https://komarev.com/ghpvc/?username=Guillermelo&label=profile%20views&color=6e7681&style=flat)
 ![Primary language](https://img.shields.io/badge/primary-Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -36,8 +36,8 @@ Backend services, cloud infrastructure, automation, and tooling built around pra
 </p>
 
 <p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guillermelo&theme=github_dark" alt="Repos per language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guillermelo&theme=github_dark" alt="Most committed languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guillermelo&theme=github_dark&exclude=jupyter%20Notebook" alt="Repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guillermelo&theme=github_dark&exclude=jupyter%20Notebook" alt="Most committed languages" />
 </p>
 
 ## Current Direction
