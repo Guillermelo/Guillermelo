@@ -1,35 +1,27 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Guillermelo&label=Profile%20views&color=586069&style=flat-square" alt="Profile views" />
-</p>
-
 # Guillermo Benitez
 
-**Cloud Engineer** focused on reliable infrastructure, backend systems, and automation.
+**Cloud Engineer** focused on infrastructure, backend systems, and automation.
 
-I work close to the platform layer: building services, automating workflows, and keeping infrastructure practical, observable, and easy to operate.
+![Profile views](https://komarev.com/ghpvc/?username=Guillermelo&label=profile%20views&color=6e7681&style=flat)
+![Primary language](https://img.shields.io/badge/primary-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/infrastructure-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-## Core Stack
+I build close to the platform layer: services, infrastructure, automation, and tooling that are practical to operate.
 
-| Area | Tools |
-| --- | --- |
-| Primary language | **Go** |
-| Systems & backend | C++, Python, TypeScript |
-| Cloud & infrastructure | Terraform, Linux, containers, CI/CD |
+## Stack
 
-## Engineering Focus
+**Primary:** Go  
+**Also working with:** C++, Python, TypeScript  
+**Cloud & infrastructure:** Terraform, Linux, containers, CI/CD
+
+## Focus
 
 - Cloud infrastructure and platform engineering
-- Backend services, APIs, and automation
+- Backend services and APIs
 - Infrastructure as Code with Terraform
-- Developer tooling and operational workflows
+- Automation and developer tooling
 - Systems programming with a performance-minded approach
 
 ## Current Direction
 
-I am focused on cloud-native systems, Go-based backend services, Terraform-managed infrastructure, and automation that reduces operational drag.
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillermelo&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" />
-</p>
+Cloud-native systems, Go-based backend services, Terraform-managed infrastructure, and automation that reduces operational drag.
