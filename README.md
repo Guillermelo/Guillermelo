@@ -1,24 +1,35 @@
-# Guillermo
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Guillermelo&label=Profile%20views&color=586069&style=flat-square" alt="Profile views" />
+</p>
 
-Cloud Engineer focused on building reliable infrastructure, backend systems, and automation.
+# Guillermo Benitez
 
-## Main Stack
+**Cloud Engineer** focused on reliable infrastructure, backend systems, and automation.
 
-- **Go** - my primary language
-- **C++**
-- **Python**
-- **TypeScript**
-- **Terraform**
+I work close to the platform layer: building services, automating workflows, and keeping infrastructure practical, observable, and easy to operate.
 
-## What I Work On
+## Core Stack
+
+| Area | Tools |
+| --- | --- |
+| Primary language | **Go** |
+| Systems & backend | C++, Python, TypeScript |
+| Cloud & infrastructure | Terraform, Linux, containers, CI/CD |
+
+## Engineering Focus
 
 - Cloud infrastructure and platform engineering
-- Backend services and APIs
-- Infrastructure as Code
-- Automation, tooling, and developer workflows
-- Systems programming and performance-minded engineering
+- Backend services, APIs, and automation
+- Infrastructure as Code with Terraform
+- Developer tooling and operational workflows
+- Systems programming with a performance-minded approach
 
-## Current Focus
+## Current Direction
 
-I am sharpening my work around cloud-native systems, Go services, Terraform-based infrastructure, and practical automation that makes engineering teams move faster.
+I am focused on cloud-native systems, Go-based backend services, Terraform-managed infrastructure, and automation that reduces operational drag.
 
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillermelo&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" />
+</p>
