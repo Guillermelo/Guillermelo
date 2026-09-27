@@ -40,6 +40,16 @@
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guillermelo&theme=github_dark&exclude=jupyter%20Notebook" alt="Most committed languages" />
 </p>
 
+## Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guillermelo/Guillermelo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guillermelo/Guillermelo/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Guillermelo/Guillermelo/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## Current Direction
 
 > Building cloud-native systems, Go-based backend services, Terraform-managed infrastructure, and automation that reduces operational drag.
