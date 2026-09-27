@@ -9,6 +9,7 @@
 ## Engineering Focus
 
 - Cloud infrastructure and platform engineering
+- Designing fit-for-purpose infrastructure around real operational needs, explicit constraints, and well-understood trade-offs
 - Backend services and APIs
 - Infrastructure as Code with Terraform
 - Automation and developer tooling
@@ -28,9 +29,8 @@
 ## GitHub Activity
 
 <p align="center">
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guillermelo&theme=github_dark&exclude=jupyter%20Notebook" alt="Most committed languages" />
-  <img width="36%" src="https://streak-stats.demolab.com?user=Guillermelo&theme=github-dark-blue&hide_border=true" alt="Guillermo's GitHub streak" />
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guillermelo&theme=github_dark&exclude=jupyter%20Notebook" alt="Repositories by language" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Guillermelo&theme=github-dark-blue&hide_border=true" alt="Guillermo's GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guillermelo&theme=github_dark&exclude=jupyter%20Notebook" alt="Repositories by language" />
 </p>
 
 <p align="center">
