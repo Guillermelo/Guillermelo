@@ -41,17 +41,11 @@
   <img width="100%" src="https://raw.githubusercontent.com/Guillermelo/Guillermelo/output/contribution-glow.svg" alt="Animated glowing contribution graph" />
 </div>
 
-## Current Direction
-
-> Building cloud-native systems, Go-based backend services, Terraform-managed infrastructure, and automation that reduces operational drag.
-
 ---
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Guillermelo&label=Profile%20views&color=6e7681&style=flat)
-![Primary language](https://img.shields.io/badge/Primary-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 Backend services, cloud infrastructure, automation, and tooling built around practical operation.
 
