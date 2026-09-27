@@ -33,13 +33,13 @@
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guillermelo&theme=github_dark&exclude=jupyter%20Notebook" alt="Repositories by language" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guillermelo&theme=github_dark" alt="GitHub profile summary" />
-</p>
-
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Guillermelo/Guillermelo/output/contribution-glow.svg" alt="Animated glowing contribution graph" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guillermelo&theme=github_dark" alt="GitHub profile summary" />
+</p>
 
 ---
 
