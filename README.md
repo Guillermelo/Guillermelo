@@ -27,7 +27,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guillermelo&show_icons=true&hide_border=true&theme=github_dark&hide=issues&count_private=true" alt="Guillermo's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guillermelo&theme=github_dark" alt="Guillermo's GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=Guillermelo&theme=github-dark-blue&hide_border=true" alt="Guillermo's GitHub streak" />
 </p>
 
